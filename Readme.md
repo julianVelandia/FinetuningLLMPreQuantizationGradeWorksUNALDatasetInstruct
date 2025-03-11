@@ -4,4 +4,4 @@
 
 [Model](https://huggingface.co/JulianVelandia/Llama-3.2-1B-unal-instruct-q-ft-gguf)
 
-The same process as the [Notebook(https://github.com/julianVelandia/FinetuningLLMGradeWorksUNALDatasetInstruct), but starting from a previous 4-bit quantization
+The same process as the [Notebook](https://github.com/julianVelandia/FinetuningLLMGradeWorksUNALDatasetInstruct), but starting from a previous 4-bit quantization
